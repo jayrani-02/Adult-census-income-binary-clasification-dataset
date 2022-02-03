@@ -2,9 +2,9 @@
 dataset :https://gallery.cortanaintelligence.com/Experiment/Adult-Census-Income-Binary-classification-dataset
 
 
+https://user-images.githubusercontent.com/87612348/152311324-0f913f99-d7a2-4658-aaff-953182944495.mp4
 
 
-https://user-images.githubusercontent.com/87612348/152311121-13513efc-5058-4648-8ea0-515017a79828.mp4
 
 
 ![image](https://user-images.githubusercontent.com/87612348/152281543-6ea40218-fab8-4d6a-8dfc-12d3be031af6.png)
